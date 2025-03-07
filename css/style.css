@@ -9,7 +9,9 @@ body {
 }
 
 #game-board {
-    background-color: #CCC;
+    background-color: #f58484;
+    background-image: url('img/cat.jpg');
+    background-size: cover;
     width: 100vmin;
     height: 100vmin;
     display: grid;
